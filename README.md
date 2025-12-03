@@ -32,3 +32,11 @@ Nichts außer Motivation! Wir stellen alles zur Verfügung, was du für den Work
 ![](photos/IMG_6441.jpg)
 ![](photos/IMG_6442.jpg)
 ![](photos/IMG_6443.jpg)
+
+# Teileliste - für den Nachbau zuhause
+
+4x ![Servos](https://www.roboter-bausatz.de/p/mg90s-micro-servo-motor) - standard 9g - am besten mit Metalgetriebe
+1x ![Raspberry Pico](https://www.roboter-bausatz.de/p/raspberry-pi-pico-rp2040) - oder anderen mit CircuitPython-Unterstützung
+1x ![Joysticj](https://www.roboter-bausatz.de/p/joystick-modul-2-achsen)
+1x eine Handvoll Kabel 
+2x Knöpfe deiner Wahl - zum Beispiel ![diese hier](https://www.roboter-bausatz.de/p/drucktaster-smd-tht-sortiment-460-stueck-24-groessen) 
